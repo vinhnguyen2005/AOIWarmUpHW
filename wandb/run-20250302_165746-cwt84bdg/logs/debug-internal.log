@@ -1,0 +1,16 @@
+{"time":"2025-03-02T16:57:46.1386206+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"D:\\AOIVietNam\\PythonLearning\\AOIBaiTap\\wandb\\run-20250302_165746-cwt84bdg\\logs\\debug-core.log"}
+{"time":"2025-03-02T16:57:47.9067023+07:00","level":"INFO","msg":"created new stream","id":"cwt84bdg"}
+{"time":"2025-03-02T16:57:47.9067023+07:00","level":"INFO","msg":"stream: started","id":"cwt84bdg"}
+{"time":"2025-03-02T16:57:47.9067023+07:00","level":"INFO","msg":"handler: started","stream_id":"cwt84bdg"}
+{"time":"2025-03-02T16:57:47.9067023+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"cwt84bdg"}
+{"time":"2025-03-02T16:57:47.9067023+07:00","level":"INFO","msg":"sender: started","stream_id":"cwt84bdg"}
+{"time":"2025-03-02T16:57:48.3132522+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-02T16:58:07.7761031+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-02T16:58:07.7761031+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-02T16:58:08.4940154+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.2192598,"progress":"497B/497B"}],"total_operations":1}}
+{"time":"2025-03-02T16:58:08.5959596+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-02T16:58:13.0468421+07:00","level":"INFO","msg":"stream: closing","id":"cwt84bdg"}
+{"time":"2025-03-02T16:58:13.0468421+07:00","level":"INFO","msg":"handler: closed","stream_id":"cwt84bdg"}
+{"time":"2025-03-02T16:58:13.0468421+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cwt84bdg"}
+{"time":"2025-03-02T16:58:13.0475221+07:00","level":"INFO","msg":"sender: closed","stream_id":"cwt84bdg"}
+{"time":"2025-03-02T16:58:13.0475221+07:00","level":"INFO","msg":"stream: closed","id":"cwt84bdg"}

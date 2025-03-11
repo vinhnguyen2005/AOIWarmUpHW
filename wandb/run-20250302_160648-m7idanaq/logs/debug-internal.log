@@ -1,0 +1,15 @@
+{"time":"2025-03-02T16:06:48.2737292+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"D:\\AOIVietNam\\PythonLearning\\AOIBaiTap\\wandb\\run-20250302_160648-m7idanaq\\logs\\debug-core.log"}
+{"time":"2025-03-02T16:06:50.3221321+07:00","level":"INFO","msg":"created new stream","id":"m7idanaq"}
+{"time":"2025-03-02T16:06:50.3221321+07:00","level":"INFO","msg":"stream: started","id":"m7idanaq"}
+{"time":"2025-03-02T16:06:50.3221321+07:00","level":"INFO","msg":"sender: started","stream_id":"m7idanaq"}
+{"time":"2025-03-02T16:06:50.3221321+07:00","level":"INFO","msg":"handler: started","stream_id":"m7idanaq"}
+{"time":"2025-03-02T16:06:50.3221321+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"m7idanaq"}
+{"time":"2025-03-02T16:06:50.6947928+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-02T16:06:51.5562718+07:00","level":"INFO","msg":"stream: closing","id":"m7idanaq"}
+{"time":"2025-03-02T16:06:51.5562718+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-02T16:06:51.5569737+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-02T16:06:53.4692594+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-02T16:06:53.7825722+07:00","level":"INFO","msg":"handler: closed","stream_id":"m7idanaq"}
+{"time":"2025-03-02T16:06:53.7825722+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"m7idanaq"}
+{"time":"2025-03-02T16:06:53.7825722+07:00","level":"INFO","msg":"sender: closed","stream_id":"m7idanaq"}
+{"time":"2025-03-02T16:06:53.7831183+07:00","level":"INFO","msg":"stream: closed","id":"m7idanaq"}
