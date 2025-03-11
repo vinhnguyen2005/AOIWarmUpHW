@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "d:\AOIVietNam\PythonLearning\AOIBaiTap\Day17\wandb-test.py", line 34, in <module>
-    wandb.run.log({"Dataset": wandb.Table(dataframe=dataset)})
-                                                    ^^^^^^^
-NameError: name 'dataset' is not defined
