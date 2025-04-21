@@ -1,0 +1,15 @@
+{"time":"2025-03-02T16:37:00.2465173+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"D:\\AOIVietNam\\PythonLearning\\AOIBaiTap\\wandb\\run-20250302_163700-jb6o04ap\\logs\\debug-core.log"}
+{"time":"2025-03-02T16:37:02.0277535+07:00","level":"INFO","msg":"created new stream","id":"jb6o04ap"}
+{"time":"2025-03-02T16:37:02.0277535+07:00","level":"INFO","msg":"stream: started","id":"jb6o04ap"}
+{"time":"2025-03-02T16:37:02.0277535+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"jb6o04ap"}
+{"time":"2025-03-02T16:37:02.0277535+07:00","level":"INFO","msg":"sender: started","stream_id":"jb6o04ap"}
+{"time":"2025-03-02T16:37:02.0277535+07:00","level":"INFO","msg":"handler: started","stream_id":"jb6o04ap"}
+{"time":"2025-03-02T16:37:02.490929+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-02T16:37:02.5385496+07:00","level":"INFO","msg":"stream: closing","id":"jb6o04ap"}
+{"time":"2025-03-02T16:37:02.543006+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-02T16:37:03.0226191+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-02T16:37:04.5131609+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-02T16:37:04.8544756+07:00","level":"INFO","msg":"handler: closed","stream_id":"jb6o04ap"}
+{"time":"2025-03-02T16:37:04.8544756+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jb6o04ap"}
+{"time":"2025-03-02T16:37:04.8544756+07:00","level":"INFO","msg":"sender: closed","stream_id":"jb6o04ap"}
+{"time":"2025-03-02T16:37:04.8552812+07:00","level":"INFO","msg":"stream: closed","id":"jb6o04ap"}

@@ -43,10 +43,15 @@ def f6(x):
     return np.cos(x)
 
 def f7(x):
+    if np.any(np.abs((x - np.pi / 2) % np.pi) < 0.01):
+        return np.nan
     return np.tan(x)
 
+# with x >= 0
 def f8(x):
-    return x ** 0.5
+    if x < 0:
+        return np.nan
+    return np.sqrt(x)
 
 plot_function_and_derivative(f1, title="Đồ thị f(x) = x^2 - 3x + 2 và f’(x)")
 plot_function_and_derivative(f2, title="Đồ thị f(x) = x^3 - 2x^2 + 4x - 2 và f’(x)")
