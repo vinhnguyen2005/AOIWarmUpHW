@@ -50,4 +50,3 @@ if binary_cross_entropy_model1 < binary_cross_entropy_model2:
     print("Mô hình 1 tốt hơn với giá trị cross entropy:", binary_cross_entropy_model1)
 else:
     print("Mô hình 2 tốt hơn với giá trị cross entropy:", binary_cross_entropy_model2)
-    

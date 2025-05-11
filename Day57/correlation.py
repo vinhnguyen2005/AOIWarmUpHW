@@ -93,7 +93,6 @@ def calculate_tf(corpus, docs):
 
 def calculate_idf(corpus, docs):
     idf = np.zeros(len(corpus))
-    
     for j, word in enumerate(corpus):
         doc_count = sum(1 for doc in docs if word in doc)
         idf[j] = np.log(len(docs) / (doc_count + 1)) if doc_count > 0 else 0

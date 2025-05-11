@@ -48,3 +48,4 @@ if std < 1:
     print("Phần thưởng ổn định với độ lệch chuẩn:", std)
 else:
     print("Phần thưởng không ổn định với độ lệch chuẩn:", std)
+    
